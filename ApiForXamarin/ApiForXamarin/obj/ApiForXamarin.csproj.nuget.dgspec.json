@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectosGIT_EgOp\\ProyectGitExtensions\\Curso_Xamarin\\API\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj": {}
+    "C:\\ProyectosGIT_EgOp\\GitHub\\ApiXamarin\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj": {}
   },
   "projects": {
-    "C:\\ProyectosGIT_EgOp\\ProyectGitExtensions\\Curso_Xamarin\\API\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj": {
+    "C:\\ProyectosGIT_EgOp\\GitHub\\ApiXamarin\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectosGIT_EgOp\\ProyectGitExtensions\\Curso_Xamarin\\API\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj",
+        "projectUniqueName": "C:\\ProyectosGIT_EgOp\\GitHub\\ApiXamarin\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj",
         "projectName": "ApiForXamarin",
-        "projectPath": "C:\\ProyectosGIT_EgOp\\ProyectGitExtensions\\Curso_Xamarin\\API\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj",
+        "projectPath": "C:\\ProyectosGIT_EgOp\\GitHub\\ApiXamarin\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj",
         "packagesPath": "C:\\Users\\eospina\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectosGIT_EgOp\\ProyectGitExtensions\\Curso_Xamarin\\API\\ApiForXamarin\\ApiForXamarin\\obj\\",
+        "outputPath": "C:\\ProyectosGIT_EgOp\\GitHub\\ApiXamarin\\ApiForXamarin\\ApiForXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

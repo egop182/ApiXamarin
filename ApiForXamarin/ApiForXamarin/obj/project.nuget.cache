@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xK+rqE1Njc07gG0Egk/VknrOWq0vZS1841ZCxvQptwYbep3wRbHf2xjMDAVTZFZQX84tr0s0q7pf/CpBFaNQdg==",
+  "dgSpecHash": "Drr5Ka/oofGBiBfe5RQJw3FMMalTxGiBO40olmgRsBdj+r/3QTvbRp3y1hNbtG4UKF7IdsgtTTMNw9tYAnCD4A==",
   "success": true,
-  "projectFilePath": "C:\\ProyectosGIT_EgOp\\ProyectGitExtensions\\Curso_Xamarin\\API\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj",
+  "projectFilePath": "C:\\ProyectosGIT_EgOp\\GitHub\\ApiXamarin\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eospina\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\eospina\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Drr5Ka/oofGBiBfe5RQJw3FMMalTxGiBO40olmgRsBdj+r/3QTvbRp3y1hNbtG4UKF7IdsgtTTMNw9tYAnCD4A==",
+  "dgSpecHash": "cqjTz7xARD60TY/krrJGbJJsbIL8iMYe0wrKbxR5Syak0UtRutcC87rBqVRmHqoBJWCMYANRuaCcMz87BRQRbQ==",
   "success": true,
   "projectFilePath": "C:\\ProyectosGIT_EgOp\\GitHub\\ApiXamarin\\ApiForXamarin\\ApiForXamarin\\ApiForXamarin.csproj",
   "expectedPackageFiles": [
@@ -59,6 +59,7 @@
     "C:\\Users\\eospina\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\eospina\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\eospina\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\eospina\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.20\\microsoft.aspnetcore.authentication.jwtbearer.6.0.20.nupkg.sha512",
     "C:\\Users\\eospina\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\eospina\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\eospina\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",

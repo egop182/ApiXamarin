@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ApiForXamarin.Data;
 using ApiForXamarin.Data.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ApiForXamarin.Controllers
 {
@@ -14,7 +10,8 @@ namespace ApiForXamarin.Controllers
     [ApiController]
     public class ClientsController : ControllerBase
     {
-        private readonly ApiForXamarinContext _context;
+        private ApiForXamarinContext _context;
+        //private readonly ApiForXamarinContext _context;
 
         public ClientsController(ApiForXamarinContext context)
         {

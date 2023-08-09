@@ -265,6 +265,9 @@ C:\ProyectosGIT_EgOp\ProyectGitExtensions\Curso_Xamarin\API\ApiForXamarin\ApiFor
 C:\ProyectosGIT_EgOp\ProyectGitExtensions\Curso_Xamarin\API\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\ProyectosGIT_EgOp\ProyectGitExtensions\Curso_Xamarin\API\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\ProyectosGIT_EgOp\ProyectGitExtensions\Curso_Xamarin\API\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\System.Memory.Data.dll
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\appsettings.Development.json
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\appsettings.json
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\ApiForXamarin.exe
@@ -277,12 +280,12 @@ C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Humanizer.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\MessagePack.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.Build.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.Build.Framework.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -296,7 +299,6 @@ C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -327,7 +329,6 @@ C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\NuGet.Common.dll

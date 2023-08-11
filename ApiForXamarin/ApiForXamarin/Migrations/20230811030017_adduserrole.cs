@@ -5,11 +5,25 @@
 namespace ApiForXamarin.Migrations
 {
     /// <inheritdoc />
-    public partial class nueva_bd : Migration
+    public partial class adduserrole : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.CreateTable(
+                name: "Client",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Dna = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Client", x => x.Id);
+                });
+
             migrationBuilder.CreateTable(
                 name: "UserRole",
                 columns: table => new
@@ -54,6 +68,9 @@ namespace ApiForXamarin.Migrations
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "Client");
+
             migrationBuilder.DropTable(
                 name: "User");
 

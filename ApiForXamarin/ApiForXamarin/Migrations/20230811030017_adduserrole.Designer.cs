@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ApiForXamarin.Migrations
 {
     [DbContext(typeof(ApiForXamarinContext))]
-    [Migration("20230809033710_nueva_bd")]
-    partial class nueva_bd
+    [Migration("20230811030017_adduserrole")]
+    partial class adduserrole
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

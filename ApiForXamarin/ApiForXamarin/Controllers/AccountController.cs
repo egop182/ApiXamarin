@@ -1,12 +1,10 @@
-﻿using ApiForXamarin.Services;
-using ApiForXamarin.Data.Dto;
-using Microsoft.AspNetCore.Authorization;
+﻿using ApiForXamarin.Data.Dto;
+using ApiForXamarin.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiForXamarin.Controllers
 {
-    //[AllowAnonymous]
     [Route("api/[controller]")]
     [ApiController]
     public class AccountController : ControllerBase
@@ -19,8 +17,8 @@ namespace ApiForXamarin.Controllers
             _userService = userService;
             _accountService = accountService;
         }
-
-        [HttpPost("Login")]
+        
+        [HttpGet("Login")]
         public async Task<IActionResult> Login(string userName, string password)
         {
             var user = await _userService.GetUserAsync(userName, password);
@@ -42,5 +40,7 @@ namespace ApiForXamarin.Controllers
             return Ok(userDto);
         }
 
+        // Otros métodos para SignIn, Logout, ForgotPassword, etc.
     }
+
 }

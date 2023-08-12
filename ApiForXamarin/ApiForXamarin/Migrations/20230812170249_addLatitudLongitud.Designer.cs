@@ -3,6 +3,7 @@ using ApiForXamarin.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ApiForXamarin.Migrations
 {
     [DbContext(typeof(ApiForXamarinContext))]
-    partial class ApiForXamarinContextModelSnapshot : ModelSnapshot
+    [Migration("20230812170249_addLatitudLongitud")]
+    partial class addLatitudLongitud
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

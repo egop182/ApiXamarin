@@ -5,7 +5,7 @@
 namespace ApiForXamarin.Migrations
 {
     /// <inheritdoc />
-    public partial class adduserrole : Migration
+    public partial class HastaNuevaBdProductos : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -17,11 +17,30 @@ namespace ApiForXamarin.Migrations
                     Id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Dna = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Dna = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Latitude = table.Column<double>(type: "float", nullable: false),
+                    Longitude = table.Column<double>(type: "float", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Client", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Producto",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Peso = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Precio = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Cantidad = table.Column<long>(type: "bigint", nullable: false),
+                    Imagen = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Producto", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -70,6 +89,9 @@ namespace ApiForXamarin.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Client");
+
+            migrationBuilder.DropTable(
+                name: "Producto");
 
             migrationBuilder.DropTable(
                 name: "User");

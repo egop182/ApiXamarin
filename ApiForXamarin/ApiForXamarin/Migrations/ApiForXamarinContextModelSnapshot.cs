@@ -48,6 +48,38 @@ namespace ApiForXamarin.Migrations
                     b.ToTable("Client", (string)null);
                 });
 
+            modelBuilder.Entity("ApiForXamarin.Data.Models.Producto", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<long>("Cantidad")
+                        .HasColumnType("bigint");
+
+                    b.Property<string>("Imagen")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Peso")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Precio")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Producto", (string)null);
+                });
+
             modelBuilder.Entity("ApiForXamarin.Data.Models.User", b =>
                 {
                     b.Property<long>("Id")

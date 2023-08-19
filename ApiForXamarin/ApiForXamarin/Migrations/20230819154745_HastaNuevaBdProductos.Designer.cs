@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ApiForXamarin.Migrations
 {
     [DbContext(typeof(ApiForXamarinContext))]
-    [Migration("20230811030017_adduserrole")]
-    partial class adduserrole
+    [Migration("20230819154745_HastaNuevaBdProductos")]
+    partial class HastaNuevaBdProductos
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -36,6 +36,12 @@ namespace ApiForXamarin.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<double>("Latitude")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Longitude")
+                        .HasColumnType("float");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -43,6 +49,38 @@ namespace ApiForXamarin.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Client", (string)null);
+                });
+
+            modelBuilder.Entity("ApiForXamarin.Data.Models.Producto", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+
+                    b.Property<long>("Cantidad")
+                        .HasColumnType("bigint");
+
+                    b.Property<string>("Imagen")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Peso")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Precio")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Producto", (string)null);
                 });
 
             modelBuilder.Entity("ApiForXamarin.Data.Models.User", b =>

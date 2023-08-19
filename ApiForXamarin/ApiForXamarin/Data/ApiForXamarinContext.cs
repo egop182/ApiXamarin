@@ -17,6 +17,7 @@ namespace ApiForXamarin.Data
         public DbSet<Client> Clients { get; set; }
         public DbSet<UserRole> UserRoles { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Producto> Productos { get; set; }
 
         //public DbSet<ApiForXamarin.Data.Models.Client> Clients { get; set; } = default!;
 
@@ -25,6 +26,7 @@ namespace ApiForXamarin.Data
             modelBuilder.Entity<Client>().ToTable(nameof(Client));
             modelBuilder.Entity<UserRole>().ToTable(nameof(UserRole));
             modelBuilder.Entity<User>().ToTable(nameof(User));
+            modelBuilder.Entity<Producto>().ToTable(nameof(Producto));
 
 
             base.OnModelCreating(modelBuilder);

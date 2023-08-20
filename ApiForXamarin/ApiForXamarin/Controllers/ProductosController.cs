@@ -2,6 +2,7 @@
 using ApiForXamarin.Data.Dto;
 using ApiForXamarin.Data.Models;
 using ApiForXamarin.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,7 @@ using System;
 
 namespace ApiForXamarin.Controllers
 {
+    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductosController : ControllerBase

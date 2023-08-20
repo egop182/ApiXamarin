@@ -1,3 +1,10 @@
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.csproj.AssemblyReference.cache
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.AssemblyInfoInputs.cache
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.AssemblyInfo.cs
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.csproj.CoreCompileInputs.cache
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.MvcApplicationPartsAssemblyInfo.cache
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\appsettings.Development.json
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\appsettings.json
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\ApiForXamarin.exe
@@ -245,13 +252,6 @@ C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.csproj.AssemblyReference.cache
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.GeneratedMSBuildEditorConfig.editorconfig
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.AssemblyInfoInputs.cache
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.AssemblyInfo.cs
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.csproj.CoreCompileInputs.cache
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.MvcApplicationPartsAssemblyInfo.cs
-C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\ApiForXamarin.MvcApplicationPartsAssemblyInfo.cache
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\staticwebassets\msbuild.ApiForXamarin.Microsoft.AspNetCore.StaticWebAssets.props
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiForXamarin.props
 C:\ProyectosGIT_EgOp\GitHub\ApiXamarin\ApiForXamarin\ApiForXamarin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiForXamarin.props

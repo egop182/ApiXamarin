@@ -15,7 +15,7 @@ namespace ApiForXamarin.Controllers
     [ApiController]
     public class ProductosController : ControllerBase
     {
-        private ApiForXamarinContext _context;
+        private readonly ApiForXamarinContext _context;
         
         public ProductosController(ApiForXamarinContext context)
         {

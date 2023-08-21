@@ -11,9 +11,8 @@ namespace ApiForXamarin.Controllers
     [ApiController]
     public class ClientsController : ControllerBase
     {
-        private ApiForXamarinContext _context;
+        private readonly ApiForXamarinContext _context;
         private readonly Random random;
-        //private readonly ApiForXamarinContext _context;
 
         public ClientsController(ApiForXamarinContext context)
         {
